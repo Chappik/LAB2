@@ -27,5 +27,22 @@ while(true)
     }
    
 
+    
+
+
+
+    if (vvod == 2)
+    {
+
+
+        Console.WriteLine("Введите B");
+
+
+        b = Convert.ToInt32(Console.ReadLine());
+
+    }
+
+
+
 }
 
