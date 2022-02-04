@@ -69,5 +69,30 @@ while(true)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    if (vvod == 6)
+    {
+
+
+        Console.WriteLine(a / b);
+
+
+    }
+
+
+
 }
+
 
