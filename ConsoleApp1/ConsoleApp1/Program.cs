@@ -1,4 +1,9 @@
 
+﻿// See https://aka.ms/new-console-template for more information
+
+
+
+
 
 int a = 0, b = 0, vvod;
 
@@ -16,16 +21,32 @@ while (true)
 
 
 
+
     if (vvod == 1)
     {
-
-
         Console.WriteLine("Введите A");
 
 
         a = Convert.ToInt32(Console.ReadLine());
-
     }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 
 
@@ -68,7 +89,15 @@ while (true)
     }
 
 
+    if (vvod == 5)
 
+    {
+
+
+        Console.WriteLine(a * b);
+
+
+    }
 
 
 
@@ -90,6 +119,7 @@ while (true)
 
 
     }
+
 
 
 
