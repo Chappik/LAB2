@@ -44,5 +44,18 @@ while(true)
 
 
 
+
+    if (vvod == 3)
+    {
+
+
+        Console.WriteLine(a + b);
+
+
+    }
+
+
+
 }
+
 
