@@ -15,16 +15,7 @@ while (true)
 
 
 
-    if (vvod == 1)
-    {
-
-
-        Console.WriteLine("Введите A");
-
-
-        a = Convert.ToInt32(Console.ReadLine());
-
-    }
+    
 
 
 
