@@ -16,77 +16,28 @@ while (true)
 
 
 
-    if (vvod == 1)
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    if (vvod == 5)
     {
 
 
-        Console.WriteLine("Введите A");
-
-
-        a = Convert.ToInt32(Console.ReadLine());
-
-    }
-
-
-
-
-
-
-    if (vvod == 2)
-    {
-
-
-        Console.WriteLine("Введите B");
-
-
-        b = Convert.ToInt32(Console.ReadLine());
-
-    }
-
-
-
-
-    if (vvod == 3)
-    {
-
-
-        Console.WriteLine(a + b);
-
-
-    }
-
-
-
-
-    if (vvod == 4)
-    {
-
-
-        Console.WriteLine(a - b);
-
-
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    if (vvod == 6)
-    {
-
-
-        Console.WriteLine(a / b);
+        Console.WriteLine(a * b);
 
 
     }
